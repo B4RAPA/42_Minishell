@@ -1,8 +1,6 @@
 # 42_minishell
 minishell - Project at 42 school (42 Wolfsburg)
 
-![Bonus Completed](https://img.shields.io/badge/bonus-completed-brightgreen)
-
 <h1 align="center">
 	💻 minishell
 </h1>
@@ -24,11 +22,6 @@ minishell - Project at 42 school (42 Wolfsburg)
 ## 💡 About the project
 
 > _minishell the first group project at 42 that consists of creating a simple Unix shell from scratch using the C programming language. The goal is to reproduce basic shell behavior, including command parsing, execution, environment variable management, and signal handling. This project encourages collaboration and teamwork where not only technical skill such as working on Git and Github is improved but also soft skills such as communication and team spirit. This project deepens understanding of processes, pipes, and system calls, building strong foundations for further systems programming._
-
-#### 🚀 Bonus
-- [x] All bonus features implemented (e.g., logical operators, wildcard expansion, advanced redirect handling)
-
-For more detailed information, check the [**subject of this project**](https://github.com/jonona912/42_minishell/blob/main/minishell_subject.pdf).
 
 ## 🛠️ Usage
 
